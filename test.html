@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>HP 200 - Group 6</title>
+
+<meta name='keywords' content='Swipe, mobile, mobile web, slider, touch, 1:1, Brad Birdsall, lightweight, JS, javascript'>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name='HandheldFriendly' content='True'>
+<meta name='MobileOptimized' content='320'>
+<meta name='format-detection' content='telephone=no'>
+<meta name='viewport' content='width=device-width, minimum-scale=1.0, maximum-scale=1.0'>
+<meta http-equiv='cleartype' content='on'>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<link rel='stylesheet' href='style.css'>
+</head>
+<body>
+
+<header>
+  <h1>Battle to the US Supreme Court:<br />The Story of the Black River Regulating District</h1>
+</header>
+
+<div id='gallery'>
+
+  <div id='mySwipe' class='swipe'>
+  <div class='swipe-wrap'>
+    <div class="titlepage">
+    <h1>Battle to the US Supreme Court:
+The Panther Dam Controversy</h1>
+		<h2>The Beginnings of Environmental in the Adirondacks</h2>
+    </div>
+    
+    
+    <div class="contentpage">
+    <h2>The Black River Region</h2>
+    <img height="250px" width="400px" />
+        	<div class="content">
+        	<p>The Black River is an important waterway in Northern New York that drains the western Adirondack Mountains. The river flows through Herkimer, Lewis, Hamilton, and Oneida counties before passing through the city of Watertown in Jefferson county.</p>
+<p>The river has several tributaries, including the Moose River. The Black River drainage basin includes many lakes, man made reservoirs, Forest Preserve land, and the Moose River Plains.</p>
+            </div>
+    </div>
+    <div><b>2</b></div>
+  </div>
+</div>
+  
+  <nav>
+    <a href='#' id='prev' onclick='mySwipe.prev();return false;'><em>prev</em></a>
+
+    <a href='#' id='next' onclick='mySwipe.next();return false;'><em>next</em></a>
+  </nav>
+
+</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src='scripts/swipe.js'></script>
+<script>
+
+// pure JS
+var elem = document.getElementById('mySwipe');
+window.mySwipe = Swipe(elem, {
+  // startSlide: 4,
+  // auto: 3000,
+  // continuous: true,
+  // disableScroll: true,
+  // stopPropagation: true,
+  // callback: function(index, element) {},
+  // transitionEnd: function(index, element) {}
+});
+
+// with jQuery
+// window.mySwipe = $('#mySwipe').Swipe().data('Swipe');
+
+</script>
+
+
+</body>
+</html>

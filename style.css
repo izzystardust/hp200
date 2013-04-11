@@ -223,9 +223,8 @@ a {
 }
 
 /* close button positioned on upper right corner */
-/* TODO: button image*/
 .overlay .close {
-	background-image:url(/img/close.png);
+	background-image:url(./img/close.png);
 	position:absolute;
 	right:-15px;
 	top:-15px;

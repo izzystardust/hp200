@@ -11,7 +11,7 @@
 
 <body>
   
-<? include 'header.php'; ?>
+<?php include 'header.php'; ?>
 
 <div id='mySwipe' class='swipe'>
   <div class='swipe-wrap'>

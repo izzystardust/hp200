@@ -12,11 +12,11 @@
     
     <body>
         
-        <? include 'header.php'; ?>
+        <?php include './header.php'; ?>
         
         <div id="splash">
             <p>Damming rivers for clean hydroelectric power sounds like a good deal. But unique situations in the Adirondack Park add complications to building these systems.</p>
-            <p>You've got to ask - what could be wrong with a renewable energy that environmentalists oppose it? <a href="exhibit">Find out inside</a>.</p>
+            <p>You've got to ask - what could be wrong with a renewable energy that environmentalists oppose it? <a href="exhibit.php">Find out inside</a>.</p>
         </div>
         <div id="columns">
             

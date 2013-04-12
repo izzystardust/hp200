@@ -3,9 +3,14 @@
     <head>
         <title>Battle to the Supreme Court</title>
        	<meta charset="UTF-8">
-        <link href='style.css' rel='stylesheet'/>
+       	
+        <link href='css/style.css' rel='stylesheet' />
+        <link href='css/overlay.css' rel='stylesheet' />
+        <link href='css/home.css' rel='stylesheet' />
+        
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script src="http://cdn.jquerytools.org/1.2.7/full/jquery.tools.min.js"></script>
+        
         <link href='http://fonts.googleapis.com/css?family=IM+Fell+Great+Primer' rel='stylesheet' type='text/css'>
 
     </head>

@@ -1,0 +1,59 @@
+/*	exhibit.css
+	css specific to the exhibit
+	*/
+
+.swipe {
+	overflow: hidden;
+	visibility: hidden;
+	position: relative;
+	margin-top: 2em;
+}
+
+.swipe-wrap {
+	overflow: hidden;
+	position: relative;
+}
+
+.swipe-wrap > div {
+	float:left;
+	width:100%;
+	position: relative;
+}
+
+div.swipe-wrap > div > p {
+	margin: 0 10px 10px 10px;
+	color:#000;
+	text-align: justify;
+}
+
+div.swipe-wrap > div > h2 { margin: 0 10px 10px 10px; }
+
+div.swipe div img {
+	float: right;
+	padding-left: 20px;
+}
+
+/* Internal nav is the container for the next and previous buttons */
+
+nav.internal {
+	margin-top: 20px;
+	margin-bottom: 10px;
+	height:35px;
+	position:relative;
+}
+
+nav.internal p {
+	display: inline;
+	position: absolute;
+	top: 10px;
+	left: 42%;
+	font-style: italic;
+}
+
+nav.internal button {
+	margin-top: 5px;
+}
+
+#prev { float: left; }
+
+#next { float: right; }

@@ -115,6 +115,21 @@ function update(index, element) {
   
 }
 
+document.onkeydown = function(e) {
+  e = e || window.event;
+
+    if (e.keyCode == '37') {
+      if (mySwipe.getPos() != 0) {
+        mySwipe.prev();
+      }
+    }
+    else if (e.keyCode == '39') {
+      if (mySwipe.getPos() != mySwipe.getNumSlides() - 1) {
+        mySwipe.next();
+      }
+    }
+}
+
 var elem = document.getElementById('mySwipe');
 window.mySwipe = Swipe(elem, {
   callback: update,

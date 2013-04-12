@@ -9,6 +9,7 @@
     <link href='css/style.css' rel='stylesheet'/ type='text/css' />
     <link href='css/overlay.css' rel='stylesheet' type='text/css' />
     <link href='css/exhibit.css' rel='stylesheet' type='text/css' />
+    <link href='css/boilerplate.css' rel='stylesheet' type='text/css' />
 	
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 	<script src="http://cdn.jquerytools.org/1.2.7/full/jquery.tools.min.js"></script>

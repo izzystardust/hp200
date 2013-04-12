@@ -20,6 +20,12 @@
 	position: relative;
 }
 
+.swipe-wrap > div > h2 {
+	color:#6a7029;
+	font-size:20px;
+	font-family: 'IM Fell Great Primer', serif;
+}
+
 div.swipe-wrap > div > p {
 	margin: 0 10px 10px 10px;
 	color:#000;

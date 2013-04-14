@@ -84,19 +84,24 @@ header nav ul ul ul {
 
 header h1 {
 	color:#fff;
-	font-size:30px;
+	font-size:36px;
 	font-family: 'IM Fell Great Primer', serif;
-	text-align:left;
+	text-align:center;
 	padding:7px 0;
 	text-shadow: 0 -1px 0 #6a7029;
 }
 
 header h2 {
 	color: #fff;
-	font-size: 24px;
-	text-align: left;
+	font-size: 28px;
+	text-align: center;
 	padding:7px 0;
 	text-shadow: 0 -1px 0 #6a7029;
+}
+
+header nav {
+	font-size: 1.2em;
+	font-weight: bold;
 }
 
 

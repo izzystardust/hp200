@@ -22,14 +22,16 @@
 
 .swipe-wrap > div > h2 {
 	color:#6a7029;
-	font-size:20px;
+	font-size:1.8em;
 	font-family: 'IM Fell Great Primer', serif;
 }
 
 div.swipe-wrap > div > p {
+	font-size: 1.2em;
 	margin: 0 10px 10px 10px;
 	color:#000;
 	text-align: justify;
+	font-family: serif;
 }
 
 div.swipe-wrap > div > h2 { margin: 0 10px 10px 10px; }

@@ -26,12 +26,12 @@
 	  <img src="img/blackriverregion.png" />
 	  <h2>The Black River Region</h2>
 	  <p>The Black River is an important waterway in Northern New York that drains the western Adirondack Mountains. The river flows through Herkimer, Lewis, Hamilton, and Oneida counties before passing through the city of Watertown in Jefferson county.</p>
-	  <p>The river has several tributaries, including the Moose River. The Black River drainage basin encompasses many lakes, man made reservoirs, Forest Preserve land, and the <a rel="#mooseriverplains">Moose River Plains</a>.</p>
+	  <p>The river has several tributaries, including the Moose River. The Black River drainage basin encompasses many lakes, man made reservoirs, Forest Preserve land, and the <a class="map" rel="#mooseriverplains">Moose River Plains</a>.</p>
 	</div>
 	
     <div>
       <h2>The Black River Regulating District</h2>
-      <p>In 1919, <a rel="#watertown">Watertown</a> businesses petitioned the <a rel="#conservation_dept">Conservation Department</a> to create the Black River Regulating District under the <a rel="#machold">Machold Storage Law</a> and the <a rel="#burd">Burd Amendment</a>. The District could provide the legal structure to allow the building of hydropower dams and reservoirs on the Black River and its tributaries in order to power Watertown's industry. The Conservation Department approved the petition and the District was created and granted the rights to levy taxes and acquire land.  The District legally became a state agency and members of its board became state officials. Today, the district's dams help prevent flooding due to spring storms and snowmelt, and reservoirs release water during periods of drought to maintain water quality in the river. It is estimated that the District's dams produce enough hydroelectricity to power over 450,000 homes.</p>
+      <p>In 1919, <a class="map" rel="#watertown">Watertown</a> businesses petitioned the <a rel="#conservation_dept">Conservation Department</a> to create the Black River Regulating District under the <a rel="#machold">Machold Storage Law</a> and the <a rel="#burd">Burd Amendment</a>. The District could provide the legal structure to allow the building of hydropower dams and reservoirs on the Black River and its tributaries in order to power Watertown's industry. The Conservation Department approved the petition and the District was created and granted the rights to levy taxes and acquire land.  The District legally became a state agency and members of its board became state officials. Today, the district's dams help prevent flooding due to spring storms and snowmelt, and reservoirs release water during periods of drought to maintain water quality in the river. It is estimated that the District's dams produce enough hydroelectricity to power over 450,000 homes.</p>
     </div>
 
 	<div>
@@ -41,7 +41,7 @@
 	
     <div>
       <h2>Beginnings of the Controversy</h2>
-      <p>Controversy arose in 1920, when the Black River Regulating District put forward a proposal for nine new reservoirs, some of which called for the flooding of land located in the <a rel="#forest">Forest Preserve</a>.  According to the <a rel="#foreverwild">Forever Wild</a> clause in the New York State Constitution, the Forest Preserve was to be protected and not to be used by any public or private entities.  The two most controversial proposals called for the construction of reservoirs at Higley and Panther Mountains, both located on the South Branch of the Moose River, a tributary to the Black River. The construction of these two dams would have flooded an area of approximately 5,000 acres in the <a rel="#mooseriverplains">Moose River Plains</a>.</p>
+      <p>Controversy arose in 1920, when the Black River Regulating District put forward a proposal for nine new reservoirs, some of which called for the flooding of land located in the <a rel="#forest">Forest Preserve</a>.  According to the <a rel="#foreverwild">Forever Wild</a> clause in the New York State Constitution, the Forest Preserve was to be protected and not to be used by any public or private entities.  The two most controversial proposals called for the construction of reservoirs at Higley and Panther Mountains, both located on the South Branch of the Moose River, a tributary to the Black River. The construction of these two dams would have flooded an area of approximately 5,000 acres in the <a class="map" rel="#mooseriverplains">Moose River Plains</a>.</p>
     </div>
 
     <div>
@@ -54,7 +54,7 @@
 
     <div>
       <h2>Opposition</h2>
-      <p>The <a rel="#conservation_dept">Conservation Department</a> approved the proposal for construction of new reservoirs in 1945.  Much of the opposition to the construction of the reservoirs came about because of two men, <a rel="#apperson">John S. Apperson</a> and <a rel="#schaefer">Paul Schaefer</a>. In 1946, Apperson and Schaefer organized the <a rel="#mooserivercommittee">Adirondack Moose River Committee</a> to fight the construction of the dams. Apperson and Schaefer did everything they could to raise awareness about what the reservoirs would do to the <a rel="#mooseriverplains">Moose River Plains</a>, including disseminating fliers and movies.</p>
+      <p>The <a rel="#conservation_dept">Conservation Department</a> approved the proposal for construction of new reservoirs in 1945.  Much of the opposition to the construction of the reservoirs came about because of two men, <a rel="#apperson">John S. Apperson</a> and <a rel="#schaefer">Paul Schaefer</a>. In 1946, Apperson and Schaefer organized the <a rel="#mooserivercommittee">Adirondack Moose River Committee</a> to fight the construction of the dams. Apperson and Schaefer did everything they could to raise awareness about what the reservoirs would do to the <a class="map" rel="#mooseriverplains">Moose River Plains</a>, including disseminating fliers and movies.</p>
     </div>
 	
     <div>

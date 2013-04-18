@@ -62,6 +62,10 @@ nav.internal button {
 	margin-top: 5px;
 }
 
+a.map {
+	color: rgb(189, 110, 48);
+}
+
 #prev { float: left; }
 
 #next { float: right; }

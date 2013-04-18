@@ -84,9 +84,11 @@
 
 <nav class="internal">
   <div>
-    <button id="prev" onclick='mySwipe.prev()' disabled=true>Prev</button>
+    <a class="button" id="prev" onclick="mySwipe.prev()">Previous</a>
+    <!--<button id="prev" onclick='mySwipe.prev()' disabled=true>Prev</button>-->
 	<p>Use navigation buttons or swipe!</p>
-    <button id="next" onclick='mySwipe.next()'>Next</button>
+    <!--<button id="next" onclick='mySwipe.next()'>Next</button>-->
+    <a class="button" id="next" onclick="mySwipe.next()">Next</a>
   </div>
 </nav>
 

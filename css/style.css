@@ -37,15 +37,30 @@ body > div, nav div, footer div, header div, .swipe {
 	max-width: 700px;
 }
 
-a { color:#1191C3; }
+a {
+	color:#1191C3;
+	/* fix for links without href in body */
+	cursor: hand;
+	cursor: pointer;
+}
+
+
+a.button {
+	font-size: 1.2em;
+	margin: 0 10px 20px 10px;
+	color:#000;
+	font-family: 'IM Fell Great Primer', serif;
+	background-color: #6a7029;
+	color: #fff;
+	padding: .5em;
+}
+
+a.button:hover {
+	background-color: #1191C3;
+}
 
 
 h2 {
 	font-family: 'IM Fell Great Primer', serif;
 }
 
-a {
-	/* fix for links without href in body */
-	cursor: hand;
-	cursor: pointer;
-}

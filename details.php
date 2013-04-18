@@ -43,13 +43,15 @@ Named after Assemblyman H. Edmund Machold (1915)</p>
 </div>
 
 <div class="overlay" id="apperson">
+    <img src="img/John-Apperson.jpg" />
     <h2>John S. Apperson</h2>
-    <p>Apperson was a well-connected conservationist and engineer who had a history of fighting in favor of the Forever Wild clause and for the conservation of Lake George.</p>
+    <p>Apperson was a well-connected conservationist and General Electric engineer who had a history of fighting in favor of the Forever Wild clause and for the conservation of Lake George.  He is considered to be a pioneer of grassroots activism. Apperson founded a number of organization through which he could advance his agenda and garner public support.</p>
 </div>
 
 <div class="overlay" id="schaefer">
+  <img src="img/schaefer.jpg" />
   <h2>Paul Schaefer</h2>
-  <p>Under the mentorship of Apperson, Schaefer was younger and newer to the scene, but had already established himself as a conservation leader and photographer.</p>
+  <p>Schaefer was a rising star in the conservation movement under the mentorship of Apperson. An outdoorsman from an early age, Schaefer became a skilled craftsman, tracker, Adirondack guide and photographer. Schaefer also wrote three books documenting his treks through the mountains. Even before meeting Apperson, Paul Schaefer dedicated his life to preserving the wilderness in which he grew up.</p>
 </div>
 
 <div class="overlay" id="stokes">

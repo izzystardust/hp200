@@ -65,8 +65,6 @@
       <h2>Specifics of Lawsuits</h2>
 	  <p>The <a rel="#dewey">governor</a> initially supported the plan to construct the proposed dams. However, the opposition led by <a rel="#apperson">Apperson</a> and <a rel="#schaefer">Schaefer</a> persuaded the governor to change his mind, resulting in the passing of the <a rel="#stokes">Stokes Act</a> in 1950. The regulating district felt that said act was unlawful and unjust for many reasons.</p>
 	  <p>One of the main opposing points was the investment of money and man-hours necessary to survey and prepare the area for the project. Due to this and other factors, the district filed a lawsuit opposing the act. This lawsuit (<a href="http://www.amazon.com/Regulating-Appellant-Adirondack-Transcript-Supporting/dp/1270418157" target="_blank">Adirondack League Club v. Board of Black River Regulating District</a>) was rejected by the New York Supreme Court on the basis that taking public property for private interests was unconstitutional, and that building a reservoir for hydroelectric power represented a private interest. The regulating district appealed the decision to the United States Supreme Court in 1950, where the original ruling was upheld.</p>
-	  <p><em>Highly revised, please read!</em></p>
-      <!--<p>Initially, the <a rel="#dewey">governor</a> supported the plan to construct the proposed dams.  Opposition, led by <a rel="#apperson">Apperson</a> and <a rel="#schaefer">Schaefer</a> however, persuaded the governor to change his mind and the <a rel="#stokes">Stokes Act</a> was passed in 1950. The regulating district felt the act was unlawful and unfair for many reasons, one of which was the loss of a massive amount of money and man-hours invested into the surveying and other things needed to prepare for such a project. Because of these reasons, the district filed a lawsuit that was rejected by the New York Supreme Court on the basis that the taking of public property for private purposes was unconstitutional, and building a reservoir for hydroelectric power was a private purpose. Still thinking they were in the legal right, the regulating district appealed the case of <a href="#">Adirondack League Club v. Board of Black River Regulating District</a> to the United States Supreme Court in 1950, where the district lost yet again.</p>-->
     </div>
     <div>
       <h2>Ramifications of the Lawsuit</h2>
@@ -76,7 +74,6 @@
     <div>
       <h2>Impact on Environmental Awareness</h2>
       <p>In 1955, thanks to grass-roots activism, a total of 38 proposals for reservoirs in the Adirondacks were defeated. Environmentalists such as Apperson and Schaefer were involved in many projects besides protecting the Moose River Plains. Together, they accounted for much of the leadership behind many movements opposing the further human development of the Adirondacks in the 20th century. These included opposing the <a href="http://www.adirondackalmanack.com/2013/02/lake-george-robert-moses-john-apperson-and-tongue-mountain.html" target="_blank">development of the shore of Lake George</a>, opposing the development of a ski slope on Whiteface Mountain, and successfully fighting to find a more <a href="http://www.dec.ny.gov/pubs/47648.html" target="_blank">sustainable route for I-87</a>.</p>
-	  <p><em>What am I supposed to do with these links?</em></p>
     </div>
   </div>
 </div>

@@ -80,8 +80,11 @@ Named after Assemblyman H. Edmund Machold (1915)</p>
   <img src="img/wildernesssoclogo.png" />
   <h2>The Wilderness Society</h2>
   <p>The Wilderness Society (<a href="http://www.wilderness.org" target="_blank">homepage</a>) is the leading American conservation organization working to protect our nation’s shared wildlands. Since 1935, they have been working to permanently protect nearly 110 million acres of wilderness in 44 states.</p>
-  
 </div>
+
+<div class="overlay" id="interactivemap">
+  <h2>Interactive Map</h2>
+<iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;oe=UTF8&amp;msa=0&amp;msid=207708615158356122405.0004d8fc9f388e2ca2748&amp;t=h&amp;ll=44.582643,-77.640381&amp;spn=3.755927,7.03125&amp;z=7&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;oe=UTF8&amp;msa=0&amp;msid=207708615158356122405.0004d8fc9f388e2ca2748&amp;t=h&amp;ll=44.582643,-77.640381&amp;spn=3.755927,7.03125&amp;z=7&amp;source=embed" style="color:#0000FF;text-align:left">Beginnings of the controversy</a> in a larger map</small></div>
 
 <script>
     $("a[rel]").overlay();

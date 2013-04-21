@@ -50,8 +50,8 @@
             <div class="column" id="laws">
                 <h3>The Adirondack Museum</h3>
                 <ul>
-                    <li><a href="http://www.adkmuseum.org/">Museum Homepage</a></li>
-                    <li><a href="#">Interactive Map</a></li>
+                    <li><a href="http://www.adkmuseum.org/" target="_blank">Museum Homepage</a></li>
+                    <li><a rel="#interactivemap">Interactive Map</a></li>
                 </ul>
             </div>
         </div>

@@ -75,7 +75,7 @@
 	
     <div>
       <h2>Impact on Environmental Awareness</h2>
-      <p>In 1955, thanks to grass-roots activism, a total of 38 proposals for reservoirs in the Adirondacks were defeated. Environmentalists such as Apperson and Schaefer were involved in many projects besides protecting the Moose River Plains. Together, they accounted for much of the leadership behind many movements opposing the further human development of the Adirondacks in the 20th century. These included opposing the <a href="http://www.adirondackalmanack.com/2013/02/lake-george-robert-moses-john-apperson-and-tongue-mountain.htm" target="_blank">development of the shore of Lake George</a>, opposing the development of a ski slope on Whiteface Mountain, and successfully fighting to find a more <a href="http://www.dec.ny.gov/pubs/47648.html" target="_blank">sustainable route for I-87</a>.</p>
+      <p>In 1955, thanks to grass-roots activism, a total of 38 proposals for reservoirs in the Adirondacks were defeated. Environmentalists such as Apperson and Schaefer were involved in many projects besides protecting the Moose River Plains. Together, they accounted for much of the leadership behind many movements opposing the further human development of the Adirondacks in the 20th century. These included opposing the <a href="http://www.adirondackalmanack.com/2013/02/lake-george-robert-moses-john-apperson-and-tongue-mountain.html" target="_blank">development of the shore of Lake George</a>, opposing the development of a ski slope on Whiteface Mountain, and successfully fighting to find a more <a href="http://www.dec.ny.gov/pubs/47648.html" target="_blank">sustainable route for I-87</a>.</p>
 	  <p><em>What am I supposed to do with these links?</em></p>
     </div>
   </div>

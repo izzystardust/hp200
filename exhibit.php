@@ -54,11 +54,7 @@
 
     <div>
       <h2>Opposition</h2>
-<<<<<<< HEAD
-      <p>The <a rel="#conservation_dept">Conservation Department</a> approved the proposal for construction of new reservoirs in 1945.  Much of the opposition to the construction of the reservoirs came about because of two men, <a rel="#apperson">John S. Apperson</a> and <a rel="#schaefer">Paul Schaefer</a>. In 1946, Apperson and Schaefer organized the <a rel="#mooserivercommittee">Adirondack Moose River Committee</a> to fight the construction of the dams. Apperson and Schaefer did everything they could to raise awareness about what the reservoirs would do to the <a class="map" rel="#mooseriverplains">Moose River Plains</a>, including disseminating fliers and movies. Apperson and Schaefer also met with high level businessmen and politicians to garner the support they needed to defeat the proposal.</p>
-=======
       <p>The <a rel="#conservation_dept">Conservation Department</a> approved the proposal for construction of new reservoirs in 1945.  Much of the opposition to the construction of the reservoirs came about because of two men, <a rel="#apperson">John S. Apperson</a> and <a rel="#schaefer">Paul Schaefer</a>. In 1946, Apperson and Schaefer organized the <a rel="#mooserivercommittee">Adirondack Moose River Committee</a> to fight the construction of the dams. Apperson and Schaefer did everything they could to raise awareness about what the reservoirs would do to the <a rel="#mooseriverplains">Moose River Plains</a>, including disseminating fliers and movies.</p>
->>>>>>> parent of 389bebe... Added alternate color to map links
     </div>
 	
     <div>

@@ -84,7 +84,7 @@ Named after Assemblyman H. Edmund Machold (1915)</p>
 
 <div class="overlay" id="interactivemap">
   <h2>Interactive Map</h2>
-<iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;oe=UTF8&amp;msa=0&amp;msid=207708615158356122405.0004d8fc9f388e2ca2748&amp;t=m&amp;source=embed&amp;ll=44.918139,-79.387207&amp;spn=3.734203,7.03125&amp;z=7&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;oe=UTF8&amp;msa=0&amp;msid=207708615158356122405.0004d8fc9f388e2ca2748&amp;t=m&amp;source=embed&amp;ll=44.918139,-79.387207&amp;spn=3.734203,7.03125&amp;z=7" style="color:#0000FF;text-align:left">Beginnings of the controversy</a> in a larger map</small>
+  <iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;oe=UTF8&amp;msa=0&amp;msid=207708615158356122405.0004d8fc9f388e2ca2748&amp;t=m&amp;source=embed&amp;ll=44.918139,-79.387207&amp;spn=3.734203,7.03125&amp;z=7&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;oe=UTF8&amp;msa=0&amp;msid=207708615158356122405.0004d8fc9f388e2ca2748&amp;t=m&amp;source=embed&amp;ll=44.918139,-79.387207&amp;spn=3.734203,7.03125&amp;z=7" style="color:#0000FF;text-align:left">Larger view</a></small>
 </div>
 
 <script>

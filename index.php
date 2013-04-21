@@ -31,7 +31,11 @@
             
             <div class="column" id="where">
                 <h3>The Area</h3>
-                <p>Short summary...</p>
+                <ul>
+                    <li><a rel="#mooseriverplains">Moose River Plains</a>
+                    <li><a rel="#watertown">Watertown</a></li>
+                    <li><a rel="#forest">Forest Preserve</a><li>
+                </ul>
             </div>
             
             <div class="column" id="who">

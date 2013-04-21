@@ -23,8 +23,8 @@
         
         <div id="splash">
             <img src="img/foreverwild.jpg" />
-            <p>Damming rivers for clean hydroelectric power sounds like a good deal. But unique situations in the Adirondack Park add complications to building these systems.</p>
-            <p>You've got to ask - what could be wrong with a renewable energy that environmentalists oppose it?</p>
+            <p>During the mid 1900s, controversy arose over proposed damming of forest land in the Adirondacks. These dams would have provided clean energy, but at a cost.</p>
+            <p>You've got to ask - what could be so wrong with a renewable energy that environmentalists oppose it?</p>
             <a class="button" href="exhibit.php">Find out inside</a>
         </div>
         <div id="columns">

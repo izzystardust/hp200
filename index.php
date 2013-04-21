@@ -3,6 +3,7 @@
     <head>
         <title>Battle to the Supreme Court</title>
        	<meta charset="UTF-8">
+        <meta name="apple-mobile-web-app-capable" content="yes"> <!-- Full Screen --></meta>
        	
         <link href='css/style.css' rel='stylesheet' />
         <link href='css/overlay.css' rel='stylesheet' />

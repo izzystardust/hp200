@@ -2,8 +2,9 @@
 <html>
   <head>
     <title>Battle to the Supreme Court - HP 200-6</title>
-	<meta charset="UTF-8">
-    
+	  <meta charset="UTF-8">
+    <meta name="apple-mobile-web-app-capable" content="yes"> <!-- Full Screen --></meta>
+
     <link href='http://fonts.googleapis.com/css?family=IM+Fell+Great+Primer' rel='stylesheet' type='text/css'>
     
     <link href='css/style.css' rel='stylesheet'/ type='text/css' />
@@ -48,8 +49,7 @@
       <img src="img/area-flooding.png" />
 	  <h2>The Flooding</h2>
 	  <p>The highlighted portion of the map indicates the area that would have been flooded:</p>
-	  <p>The total area that would have been flooded amounted to almost eight square miles!</p>
-	  <p><em>Why aren't we talking about the animals that migrated through here? That was one of the more interesting bits!</em></p>
+	  <p>The total area that would have been flooded amounted to almost eight square miles! This land was largely made up of the <a rel="mooseriverplains">Moose River Plains</a>, a major breeding ground for deer and other wildlife in the Adirondacks.</p>
     </div>
 
     <div>

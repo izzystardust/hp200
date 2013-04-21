@@ -40,6 +40,10 @@
 	margin-left: 2em;
 }
 
+.column a {
+	text-decoration: none;
+}
+
 h3 {
 	padding-bottom: .5em;
 }

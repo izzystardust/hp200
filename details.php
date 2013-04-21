@@ -33,6 +33,7 @@ Named after Assemblyman H. Edmund Machold (1915)</p>
 </div>
 
 <div class="overlay" id="forest">
+  <img src="img/moosermapwest.jpg" />
   <h2>The Forest Preserve</h2>
   <p>The Forest Preserve consists of land owned by New York State located within the Adirondack and Catskill Parks.  Under article 14 of the New York State Constitution, Forest Preserve land are to be kept "forever wild."  The New York Constitution has to be amended in order to transfer ownership of land within the Forest Preserve.</p>
 </div>

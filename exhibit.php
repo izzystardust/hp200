@@ -35,9 +35,8 @@
     </div>
 
 	<div>
-	  <h2>Overview of the Black River District</h2><div align="center">
+	  <h2>Overview of the Black River District</h2>
 	  <iframe width="640" height="360" src="https://www.youtube.com/embed/FE_L6NJ_6Vo?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
-    </div>
 	</div>
 	
     <div>

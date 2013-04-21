@@ -48,8 +48,7 @@
     <div>
       <img src="img/area-flooding.png" />
 	  <h2>The Flooding</h2>
-	  <p>The highlighted portion of the map indicates the area that would have been flooded:</p>
-	  <p>The total area that would have been flooded amounted to almost eight square miles! This land was largely made up of the <a rel="mooseriverplains">Moose River Plains</a>, a major breeding ground for deer and other wildlife in the Adirondacks.</p>
+	  <p>The highlighted portion of the map indicates the area that would have been flooded, a region of almost 8 square miles! This land was largely made up of the <a rel="mooseriverplains">Moose River Plains</a>, a major breeding ground for deer and other wildlife in the Adirondacks.</p>
     </div>
 
     <div>

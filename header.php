@@ -19,6 +19,7 @@
           <li><a href="exhibit.php#10" onclick="go(10)">Impact on Environmental Awareness</a></li>
         </ul>
       </li>
+      <li><a href="more.php">&lt; Learn More &gt;</a></li>
     </ul>
   </nav>
   </div>

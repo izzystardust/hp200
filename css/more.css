@@ -1,0 +1,13 @@
+h2 {
+	font-size:1.8em;
+	color:#6a7029;;
+}
+
+#columns div {
+	height: 14em;
+	border: none;
+}
+
+#columns li {
+	padding-bottom: 1em;
+}

@@ -17,7 +17,6 @@ header img {
 
 /* Begin menu styling */
 
-header nav ul ul { display: none; }
 
 header nav ul li:hover ul {
 	display: block;
@@ -28,11 +27,17 @@ header nav ul li:hover ul {
 header nav ul {
 	border-bottom:1px solid #fff;
 	border-top:1px solid #fff;
-	width:100%;
-	padding: 0 20px;
+	/*width:100%;*/
+	margin: 0 2em 0 6em;
+	padding: 0 0 0 3em;
 	list-style: none;
 	position: relative;
 	display: inline-table;
+}
+
+header nav ul ul {
+	display: none;
+	margin: 0;
 }
 
 header nav ul:after {

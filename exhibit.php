@@ -26,8 +26,8 @@
 	<div>
 	  <img src="img/blackriverregion.png" />
 	  <h2>The Black River Region</h2>
-	  <p>The Black River is an important waterway in Northern New York that drains the western Adirondack Mountains. The river flows through Herkimer, Lewis, Hamilton, and Oneida counties before passing through the city of Watertown in Jefferson county.</p>
-	  <p>The river has several tributaries, including the Moose River. The Black River drainage basin encompasses many lakes, man made reservoirs, Forest Preserve land, and the <a rel="#mooseriverplains">Moose River Plains</a>.</p>
+	  <p>The Black River is an important waterway in Northern New York that drains the western Adirondack Mountains. The river flows through Herkimer, Lewis, Hamilton, and Oneida counties before passing through the city of <a rel="#watertown">Watertown</a> in Jefferson county.</p>
+	  <p>The river has several tributaries, including the Moose River. The Black River drainage basin encompasses many lakes, man made reservoirs, <a rel="#forest">Forest</a> Preserve land, and the <a rel="#mooseriverplains">Moose River Plains</a>.</p>
 	</div>
 	
     <div>
@@ -48,7 +48,7 @@
     <div>
       <img src="img/area-flooding.png" />
 	  <h2>The Flooding</h2>
-	  <p>The highlighted portion of the map indicates the area that would have been flooded, a region of almost 8 square miles! This land was largely made up of the <a rel="mooseriverplains">Moose River Plains</a>, a major breeding ground for deer and other wildlife in the Adirondacks.</p>
+	  <p>The highlighted portion of the map indicates the area that would have been flooded, a region of almost 8 square miles! This land was largely made up of the <a rel="#mooseriverplains">Moose River Plains</a>, a major breeding ground for deer and other wildlife in the Adirondacks.</p>
     </div>
 
     <div>

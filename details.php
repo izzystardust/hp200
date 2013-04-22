@@ -19,17 +19,14 @@ To trigger an overlay, use an anchor with the attribute rel="#trigger", where tr
 
 <div class="overlay" id="machold">
     <h2>The Machold Storage Law</h2>
-    <p>This law granted any person or public corporation the right to petition the Conservation Department for permission to form a river regulating district.
-The district gained the right to own land, sue, be sued. The regulators were appointed by the governor.
-Named after Assemblyman H. Edmund Machold (1915)</p>
+    <p>This law granted any person or public corporation the right to petition the Conservation Department for permission to form a river regulating district. Under this law, board officials of the district were to be appointed by the governor.  A river regulating district has the right to construct dams and reservoirs in order to regulate rivers and streams within the district.</p>
+
 </div>
 
 <div class="overlay" id="burd">
     <img src="img/burd-newspaper.png">
     <h2>The Burd Ammendment</h2>
-    <p>This law granted any person or public corporation the right to petition the Conservation Department for permission to form a river regulating district.
-The district gained the right to own land, sue, be sued. The regulators were appointed by the governor.
-Named after Assemblyman H. Edmund Machold (1915)</p>
+    <p>This amendment was a modification of Section 7 Article VII of the New York Constitution. It allowed 3% of the forest preserve to be flooded to accommodate for river reservoirs. The Amendment was a joint proposal of the Association for the Protection of the Adirondacks and the Board of Trade and Transportation.</p>
 </div>
 
 <div class="overlay" id="forest">
@@ -56,6 +53,7 @@ Named after Assemblyman H. Edmund Machold (1915)</p>
 </div>
 
 <div class="overlay" id="stokes">
+    <img src="img/stokesact.png">
     <h2>The Stokes Act</h2>
     <p>The Stokes Act stated that no reservoirs could be built in Herkimer or Hamilton Counties on the South Branch of the Moose River for any reason except to supply drinking water. It was signed by Governor Dewey in 1950.</p>
 </div>

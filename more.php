@@ -21,7 +21,7 @@
     <body>
         
         <?php include './header.php'; ?>
-
+        <h2>Learn More</h2>
         <div id="columns">
             <div class="column" id="where">
                 <h3>People</h3>

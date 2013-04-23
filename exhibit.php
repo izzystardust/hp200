@@ -80,14 +80,13 @@
 
 <nav class="internal">
   <div>
-    <a class="button" id="prev" onclick="mySwipe.prev()">Previous</a>
+    <a class="button" id="prev" onclick="mySwipe.prev()">End</a>
     <!--<button id="prev" onclick='mySwipe.prev()' disabled=true>Prev</button>-->
 	<p>Use navigation buttons or swipe!</p>
     <!--<button id="next" onclick='mySwipe.next()'>Next</button>-->
     <a class="button" id="next" onclick="mySwipe.next()">Next</a>
   </div>
 </nav>
-
 
 <?php include './footer.php'; ?>
 
@@ -106,13 +105,13 @@ function update(index, element) {
   // if first element, disable "previous"
   if (mySwipe.getNumSlides() == index + 1) {
     document.getElementById("next").innerHTML = "Beginning";
-	document.getElementById("prev").disabled = false;
+	document.getElementById("prev").innerHTML = "Previous";
   } else if (index == 0) {
-    document.getElementById("prev").disabled = true;
+    document.getElementById("prev").innerHTML = "End";
     document.getElementById("next").innerHTML = "Next";
   } else {
     document.getElementById("next").innerHTML = "Next";
-    document.getElementById("prev").disabled = false;
+    document.getElementById("prev").innerHTML = "Previous";
   }
   
   window.location.hash = index + 1;

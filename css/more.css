@@ -1,6 +1,8 @@
 h2 {
 	font-size:1.8em;
-	color:#6a7029;;
+	color:#6a7029;
+	padding-top: .5em;
+	padding-bottom: 1em;
 }
 
 #columns div {
